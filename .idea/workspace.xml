@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="computational_geometry" targetName="cg_J" />
+      <config projectName="computational_geometry" targetName="cg_K" />
+      <config projectName="computational_geometry" targetName="cg_L" />
+      <config projectName="computational_geometry" targetName="cg_M" />
+      <config projectName="computational_geometry" targetName="cg_N" />
+      <config projectName="computational_geometry" targetName="cg_A" />
+      <config projectName="computational_geometry" targetName="cg_B" />
+      <config projectName="computational_geometry" targetName="cg_C" />
+      <config projectName="computational_geometry" targetName="cg_E" />
+      <config projectName="computational_geometry" targetName="cg_G" />
+      <config projectName="computational_geometry" targetName="cg_H" />
+      <config projectName="computational_geometry" targetName="cg_I" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a0915ce-e466-470a-92dc-4bc48ea23b2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/computational-geometry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jetbrains.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A.aplusb.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B.intersection.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C.closest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E.convexhull.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G.semiplanes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H.inside.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I.inside2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J.earclipping.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K.nearest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L.diameter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M.finite.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N.mindisc.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/10_PSLG_localization/kirkpatrick_algorithm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/10_PSLG_localization/kirkpatrick_algorithm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/10_PSLG_localization/slabs_method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/10_PSLG_localization/slabs_method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/11_trapezoidal_map/trapezoidal_map.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/11_trapezoidal_map/trapezoidal_map.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/16_static_delaunay/Triangulation_Delaunay .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/16_static_delaunay/Triangulation_Delaunay .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/1_skip_quadtree/skip_quadtree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/1_skip_quadtree/skip_quadtree.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/1_skip_quadtree/skip_quadtree_slides.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/1_skip_quadtree/skip_quadtree_slides.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/2_rect_intersect/rect_intersect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/2_rect_intersect/rect_intersect.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/2_rect_intersect/rect_intersect_slides.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/2_rect_intersect/rect_intersect_slides.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/4_ear_clipping_triangulation/ear_clipping_triangulation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/4_ear_clipping_triangulation/ear_clipping_triangulation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/4_ear_clipping_triangulation/slideshow/slides_ear_clipping_triangulation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/4_ear_clipping_triangulation/slideshow/slides_ear_clipping_triangulation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/4_segment_tree/segment_tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/4_segment_tree/segment_tree.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/5_affine_space/foundation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/5_affine_space/foundation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/8_scan_line_triangulation/1_Monotone_Pieces.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/8_scan_line_triangulation/1_Monotone_Pieces.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cg/8_scan_line_triangulation/2_Triangulation_of_Monotone.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cg/8_scan_line_triangulation/2_Triangulation_of_Monotone.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Wf1fA5Nq5QaVoy0WCHsJHIdhOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/MyB" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jetbrains\CLionProjects\computational-geometry\src" />
+      <recent name="C:\Users\jetbrains\CLionProjects\computational-geometry\include" />
+      <recent name="C:\Users\jetbrains\CLionProjects\computational-geometry\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.cg_G">
+    <configuration name="cg_A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_E" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_G" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_G" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_G">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_H" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_H" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_H">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_I" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_I" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_I">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_J" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_J" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_J">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_K" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_K" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_K">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_L" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_L" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_L">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_M" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_M" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_M">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cg_N" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_geometry" TARGET_NAME="cg_N" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_geometry" RUN_TARGET_NAME="cg_N">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.cg_A" />
+      <item itemvalue="CMake Application.cg_B" />
+      <item itemvalue="CMake Application.cg_C" />
+      <item itemvalue="CMake Application.cg_E" />
+      <item itemvalue="CMake Application.cg_G" />
+      <item itemvalue="CMake Application.cg_H" />
+      <item itemvalue="CMake Application.cg_I" />
+      <item itemvalue="CMake Application.cg_J" />
+      <item itemvalue="CMake Application.cg_K" />
+      <item itemvalue="CMake Application.cg_L" />
+      <item itemvalue="CMake Application.cg_M" />
+      <item itemvalue="CMake Application.cg_N" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a0915ce-e466-470a-92dc-4bc48ea23b2e" name="Default Changelist" comment="" />
+      <created>1579525935584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579525935584</updated>
+      <workItem from="1579525937273" duration="64499000" />
+      <workItem from="1580203852969" duration="10284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580203931550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1580203931550" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1579723032066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579723032066" />
+    <state width="1493" height="270" key="GridCell.Tab.0.bottom" timestamp="1580209870109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="270" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580209870109" />
+    <state width="1493" height="270" key="GridCell.Tab.0.center" timestamp="1580209870109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="270" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580209870109" />
+    <state width="1493" height="270" key="GridCell.Tab.0.left" timestamp="1580209870109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="270" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580209870109" />
+    <state width="1493" height="270" key="GridCell.Tab.0.right" timestamp="1580209870109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="270" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580209870109" />
+    <state width="1493" height="341" key="GridCell.Tab.1.bottom" timestamp="1580067576123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580067576123" />
+    <state width="1493" height="341" key="GridCell.Tab.1.center" timestamp="1580067576121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580067576121" />
+    <state width="1493" height="341" key="GridCell.Tab.1.left" timestamp="1580067576121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580067576121" />
+    <state width="1493" height="341" key="GridCell.Tab.1.right" timestamp="1580067576122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580067576122" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1579540963210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579540963210" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580203879145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580203879145" />
+    <state x="446" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579701377513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1579701377513" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580055494539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580055494539" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/B.intersection.cpp</url>
+          <line>126</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/C.closest.cpp</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/N.mindisc.cpp</url>
+          <line>147</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/N.mindisc.cpp</url>
+          <line>120</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/K.nearest.cpp</url>
+          <line>161</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/K.nearest.cpp</url>
+          <line>75</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/L.diameter.cpp</url>
+          <line>124</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/L.diameter.cpp</url>
+          <line>117</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/J.earclipping.cpp</url>
+          <line>141</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/G.semiplanes.cpp</url>
+          <line>130</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/M.finite.cpp</url>
+          <line>179</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/M.finite.cpp</url>
+          <line>152</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/M.finite.cpp</url>
+          <line>188</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/M.finite.cpp</url>
+          <line>138</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
